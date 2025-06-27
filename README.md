@@ -22,7 +22,15 @@ The **Post to Hero Plugin** is a WordPress plugin designed to enhance your websi
 
 - Add the shortcode `[post_to_hero]` to any post or page.
 - Customize the shortcode with parameters like `category` or `post_id`.
-- Configure settings via the WordPress admin panel under **Settings > Post to Hero**.
+- See the available setting configurations via the WordPress admin panel under **Settings > Post to Hero**.
+
+### Example Screenshots
+
+![Select the shortcode block](images/1.select-shortcode-block.png)
+_Selecting the shortcode block in the WordPress editor._
+
+![Type the plugin shortcode](images/2.type%20the%20plugin-shortcode.png)
+_Typing the `[post_to_hero]` shortcode in the editor._
 
 ## File Structure
 
