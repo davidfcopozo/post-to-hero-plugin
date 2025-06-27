@@ -27,9 +27,11 @@ The **Post to Hero Plugin** is a WordPress plugin designed to enhance your websi
 ### Example Screenshots
 
 ![Select the shortcode block](images/1.select-shortcode-block.png)
+
 _Selecting the shortcode block in the WordPress editor._
 
 ![Type the plugin shortcode](images/2.type%20the%20plugin-shortcode.png)
+
 _Typing the `[post_to_hero]` shortcode in the editor._
 
 ## File Structure
